@@ -30,7 +30,7 @@
 	
 			loaders: [{
             test: /\.scss$/,
-            loader: "style!css!sass?outputStyle=expanded&includePaths[]=" + path.resolve(__dirname, "./external_modules/justscss/src/compass") + "&includePaths[]=" + path.resolve(__dirname, "./external_modules/justscss/src")
+            loader: "style!css!sass?outputStyle=expanded&includePaths[]=" + path.resolve(__dirname, "./node_modules/justscss/src/compass") + "&includePaths[]=" + path.resolve(__dirname, "./node_modules/justscss/src")
 
         }			
 
