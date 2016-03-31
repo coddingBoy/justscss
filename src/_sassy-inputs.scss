@@ -1,0 +1,13 @@
+$sassy-base-color: #777 !default;
+$sassy-accent-color: coral !default;
+$sassy-disabled-color: #eee !default;
+
+@import "sass-inputs/helpers/strip-units";
+@import "sass-inputs/helpers/px-to-rem";
+@import "sass-inputs/helpers/appearance";
+
+@import "sass-inputs/inputs/text";
+@import "sass-inputs/inputs/button";
+@import "sass-inputs/inputs/radio";
+@import "sass-inputs/inputs/checkbox";
+@import "sass-inputs/inputs/select";

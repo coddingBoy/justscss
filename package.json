@@ -1,0 +1,24 @@
+{
+  "name": "justscss",
+  "version": "1.0.0",
+  "description": "enjoy yourself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tanchongshi/justscss.git"
+  },
+  "keywords": [
+    "justscss",
+    "just",
+    "scss"
+  ],
+  "author": "mesut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tanchongshi/justscss/issues"
+  },
+  "homepage": "https://github.com/tanchongshi/justscss#readme"
+}
