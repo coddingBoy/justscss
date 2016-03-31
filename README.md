@@ -1,13 +1,11 @@
 # justscss
 
-
 ## 目录
 
 * [使用说明](#使用说明)
   * [安装](#安装)
   * [susy](#susy)
   	* [接口介绍](#接口介绍)
-
 
 <a name="使用说明"></a>
 ## 使用说明
@@ -21,7 +19,6 @@
 
 * 安装webpack
 
-	$
 	
 	$ npm install justscss --save-dev
 	
@@ -48,7 +45,8 @@ https://github.com/tanchongshi/webpack-compass-example
 
 ## 其他
 
-未完待续
+具体使用说明
+https://github.com/tanchongshi/justscss/wiki
 
 
 
